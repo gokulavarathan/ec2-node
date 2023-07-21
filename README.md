@@ -1,4 +1,4 @@
-# ec2-node
+# EC2-node
 ec2 deployment comments for node application
 
 Node Hello World
@@ -49,6 +49,8 @@ Get inside the directory and Install Packages
 cd nodejs-on-ec2
 
 npm install
+
+npm install pm2@latest -g
 
 Start the application To start the application, run the below command in the terminal:
 
